@@ -282,5 +282,14 @@
     "categories": ["Casino", "Clicker"],
     "category": "Casino",
     "size": "small"
+  },
+  {
+    "id": "buildnow-gg",
+    "title": "BuildNow GG",
+    "img": "https://imgs.crazygames.com/buildnow-gg_1x1/20251229084241/buildnow-gg_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
+    "url": "https://buildnow-gg.io/buildnow-gg.embed",
+    "categories": ["Action", "Trending"],
+    "category": "Action",
+    "size": "large"
   }
 ]
